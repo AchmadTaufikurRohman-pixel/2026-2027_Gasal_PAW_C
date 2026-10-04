@@ -1,5 +1,5 @@
 <?php
-function jumlahchar($a = ""){
+function jumlahchar($a = "" ){
     return strlen($a);
 }
 
