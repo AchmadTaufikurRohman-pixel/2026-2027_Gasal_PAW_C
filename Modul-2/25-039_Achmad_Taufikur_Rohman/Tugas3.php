@@ -6,5 +6,5 @@ do {
     echo $angka . "<br>";
     $angka += 4;
 } while ($angka < 21);
-
+fc
 ?>
